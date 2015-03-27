@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Français - Source" date_format="j F Y" time_format="H:i" decimal_point="." thousands_separator="" language_code="fr-FR" text_direction="LTR" addon_id="bdPaygate">
+  <phrase title="admin_navigation_bdPaygate_logs" addon_id="bdPaygate" version_id="2" version_string="0.9-dev"><![CDATA[[bd] Paygates - Historique des transactions]]></phrase>
+  <phrase title="bdpaygate_add_buyer" addon_id="bdPaygate" version_id="19" version_string="1.3.1b"><![CDATA[Ajouter un acheteur]]></phrase>
+  <phrase title="bdpaygate_buyers" addon_id="bdPaygate" version_id="19" version_string="1.3.1b"><![CDATA[Acheteurs]]></phrase>
+  <phrase title="bdpaygate_cannot_purchase_self_resource" addon_id="bdPaygate" version_id="9" version_string="1.0.3"><![CDATA[Vous ne pouvez acheter ce que vous vendez.]]></phrase>
+  <phrase title="bdpaygate_cannot_repurchase_resource" addon_id="bdPaygate" version_id="9" version_string="1.0.3"><![CDATA[Cet achat a déjà été effectué.]]></phrase>
+  <phrase title="bdpaygate_commercial_uploaded_file" addon_id="bdPaygate" version_id="28" version_string="1.4.4"><![CDATA[Fichier payant téléversé]]></phrase>
+  <phrase title="bdpaygate_delete_buyer" addon_id="bdPaygate" version_id="26" version_string="1.4.2"><![CDATA[Supprimer un acheteur]]></phrase>
+  <phrase title="bdpaygate_delete_buyer_confirm" addon_id="bdPaygate" version_id="26" version_string="1.4.2"><![CDATA[Après la suppression, l'utilisateur ne pourra plus télécharger la ressource (même les versions antérieures). Êtes-vous certain de vouloir révoquer le droit d'accès de l'utilisateur {user} ?]]></phrase>
+  <phrase title="bdpaygate_failed_transaction_text" addon_id="bdPaygate" version_id="5" version_string="1.0-dev"><![CDATA[La transaction suivante opérée sur {boardTitle} a rencontré un problème :
+
+Système de traitement des paiements : {processorId}
+Transaction : {transactionId}
+Type : {logType}
+Message : {logMessage}
+
+Un historique complet de la transaction est disponible ici : {link}]]></phrase>
+  <phrase title="bdpaygate_failed_transaction_x" addon_id="bdPaygate" version_id="5" version_string="1.0-dev"><![CDATA[Notification d'échec de transaction : {transactionId}]]></phrase>
+  <phrase title="bdpaygate_log" addon_id="bdPaygate" version_id="2" version_string="0.9-dev"><![CDATA[[bd] Paygate - Transaction]]></phrase>
+  <phrase title="bdpaygate_log_clear" addon_id="bdPaygate" version_id="2" version_string="0.9-dev"><![CDATA[Vider l'historique]]></phrase>
+  <phrase title="bdpaygate_log_details" addon_id="bdPaygate" version_id="2" version_string="0.9-dev"><![CDATA[Détails]]></phrase>
+  <phrase title="bdpaygate_log_processor_info" addon_id="bdPaygate" version_id="2" version_string="0.9-dev"><![CDATA[Informations relatives au prestataire de paiement]]></phrase>
+  <phrase title="bdpaygate_log_result" addon_id="bdPaygate" version_id="2" version_string="0.9-dev"><![CDATA[Résultats]]></phrase>
+  <phrase title="bdpaygate_logs" addon_id="bdPaygate" version_id="2" version_string="0.9-dev"><![CDATA[[bd] Paygates - Transactions]]></phrase>
+  <phrase title="bdpaygate_no_transaction_have_been_logged" addon_id="bdPaygate" version_id="2" version_string="0.9-dev"><![CDATA[Aucune transaction à ce jour.]]></phrase>
+  <phrase title="bdpaygate_paypal_call_to_action" addon_id="bdPaygate" version_id="1" version_string="0.9-dev"><![CDATA[Payer avec PayPal]]></phrase>
+  <phrase title="bdpaygate_purchase_resource" addon_id="bdPaygate" version_id="9" version_string="1.0.3"><![CDATA[Procéder à l'achat]]></phrase>
+  <phrase title="bdpaygate_purchase_resource_complete" addon_id="bdPaygate" version_id="9" version_string="1.0.3"><![CDATA[Merci pour votre achat.<br/>
+Quand le paiement aura été approuvé, vous serez en mesure de le télécharger. Il sera également disponible sur cette <a href="{purchased_link}">page</a> dédiée à vos achats.]]></phrase>
+  <phrase title="bdpaygate_purchased" addon_id="bdPaygate" version_id="19" version_string="1.3.1b"><![CDATA[Acheté]]></phrase>
+  <phrase title="bdpaygate_purchased_for" addon_id="bdPaygate" version_id="19" version_string="1.3.1b"><![CDATA[Acheté pour]]></phrase>
+  <phrase title="bdpaygate_purchased_resources" addon_id="bdPaygate" version_id="9" version_string="1.0.3"><![CDATA[Vos achats]]></phrase>
+  <phrase title="bdpaygate_requested_log_entry_not_found" addon_id="bdPaygate" version_id="2" version_string="0.9-dev"><![CDATA[La transaction demandée n'a pu être trouvée.]]></phrase>
+  <phrase title="bdpaygate_resource_purchase_explain" addon_id="bdPaygate" version_id="26" version_string="1.4.2"><![CDATA[Vous êtes sur le point d'acheter "{resource}". Lorsque le paiement sera confirmé, il vous sera possible de télécharger ou d'accéder à ce fichier. Vous pouvez trouver tous vos achats similaires sur la page <a href="{purchased_link}" target="_blank">{purchased_text}</a>.]]></phrase>
+  <phrase title="bdpaygate_subscription" addon_id="bdPaygate" version_id="27" version_string="1.4.3"><![CDATA[Paiement de l'abonnement]]></phrase>
+  <phrase title="bdpaygate_this_commercial_upload" addon_id="bdPaygate" version_id="28" version_string="1.4.4"><![CDATA[Ce téléversement est à vocation commercial.]]></phrase>
+  <phrase title="bdpaygate_you_have_not_purchased_resources" addon_id="bdPaygate" version_id="9" version_string="1.0.3"><![CDATA[Vous n'avez aucun achat à votre actif.]]></phrase>
+  <phrase title="bdpaygate_you_must_purchase_resource_to_download" addon_id="bdPaygate" version_id="9" version_string="1.0.3"><![CDATA[Vous devez au préalable régler cet achat avant de pouvoir télécharger ce contenu.]]></phrase>
+  <phrase title="bdpaytate_sure_you_want_to_clear_log" addon_id="bdPaygate" version_id="2" version_string="0.9-dev"><![CDATA[Êtes-vous certain de vouloir vider l'historique des transactions de [bd] Paygate ?]]></phrase>
+  <phrase title="option_bdPaygate0_emailOnFailure" addon_id="bdPaygate" version_id="5" version_string="1.0-dev"><![CDATA[Envoi d'un e-mail en cas d'échec]]></phrase>
+  <phrase title="option_bdPaygate0_emailOnFailure_explain" addon_id="bdPaygate" version_id="5" version_string="1.0-dev"><![CDATA[Veuillez saisir l'adresse électronique destinée à recevoir les notifications d'échec de transaction. Laissez ce champ blanc pour désactiver cette fonctionnalité.]]></phrase>
+  <phrase title="option_bdPaygate0_sandboxMode" addon_id="bdPaygate" version_id="5" version_string="1.0-dev"><![CDATA[Activer le mode "Sandbox"]]></phrase>
+  <phrase title="option_bdPaygate0_sandboxMode_explain" addon_id="bdPaygate" version_id="3" version_string="1.0-dev"><![CDATA[Ce système de "bac à sable" est un moyen pour tester l'intégration de vos paiements sur votre site, c'est à dire de procéder à des simulations d'achat sans réel transfert de fonds. La plupart des systèmes de paiement en ligne disposent de ce mode. Utilisez-le pour vous prémunir d'une perte financière liée à un défaut d'intégration.]]></phrase>
+  <phrase title="option_bdPaygate_enabledCurrencies" addon_id="bdPaygate" version_id="22" version_string="1.3.3"><![CDATA[Activer les devises]]></phrase>
+  <phrase title="option_bdPaygate_enabledCurrencies_explain" addon_id="bdPaygate" version_id="22" version_string="1.3.3"><![CDATA[]]></phrase>
+  <phrase title="option_group_bdPaygate" addon_id="bdPaygate" version_id="22" version_string="1.3.3"><![CDATA[[bd] Paygates]]></phrase>
+  <phrase title="option_group_bdPaygate_description" addon_id="bdPaygate" version_id="22" version_string="1.3.3"><![CDATA[]]></phrase>
+  <phrase title="permission_forum_bdPaygate_allThreads" addon_id="bdPaygate" version_id="31" version_string="1.4.5c"><![CDATA[[bd] Paygates: Accéder aux discussion de toutes les ressources]]></phrase>
+  <phrase title="permission_general_bdPaygate_allPurchases" addon_id="bdPaygate" version_id="26" version_string="1.4.2"><![CDATA[[bd] Paygates: Accéder à tous les achats]]></phrase>
+</language>
